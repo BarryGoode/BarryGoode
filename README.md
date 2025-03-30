@@ -8,6 +8,21 @@ gif header test
 </p>
 
 <!--
+Social Media Links
+-->
+<div align="left">
+  <a href="https://www.linkedin.com/in/barry-t-goode/" target="_blank">
+    <img src="https://github.com/BarryGoode/BarryGoode/blob/main/LinkedInIcon.png" width="52" height="52" alt="linkedin logo"  />
+  </a>
+</div>
+
+
+<!--
+Stats
+-->
+[![Barrys's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarryGoode&theme=tokyonight)](https://github.com/BarryGoode/github-readme-stats)
+
+<!--
 **BarryGoode/BarryGoode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
