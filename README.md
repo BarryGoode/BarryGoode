@@ -1,11 +1,11 @@
-## :rocket:
+## Barry Goode SDET 
 
 <!--
 gif header test
 -->
-
-![Untitledvideo-MadewithClipchamp-ezgif com-optimize](https://github.com/user-attachments/assets/84cfc1e7-ac4d-4f68-8d60-8301fbb17313)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d458a9fa-df12-45c7-ab29-1ca02602e7b2" />
+</p>
 
 <!--
 **BarryGoode/BarryGoode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
