@@ -1,4 +1,11 @@
-## Hi there 👋
+## :rocket:
+
+<!--
+gif header test
+-->
+
+![Untitledvideo-MadewithClipchamp-ezgif com-optimize](https://github.com/user-attachments/assets/84cfc1e7-ac4d-4f68-8d60-8301fbb17313)
+
 
 <!--
 **BarryGoode/BarryGoode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
