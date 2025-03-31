@@ -23,7 +23,7 @@ Social Media Links
 <!--
 Stats
 -->
-<!-- [![Barrys's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarryGoode&theme=tokyonight)](https://github.com/BarryGoode/github-readme-stats) -->
+[![Barrys's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarryGoode&theme=tokyonight)](https://github.com/BarryGoode/github-readme-stats) 
 
 <!--
 **BarryGoode/BarryGoode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
