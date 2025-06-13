@@ -1,12 +1,4 @@
 ## Barry Goode SDET 
-
-<!--
-gif header test
--->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d458a9fa-df12-45c7-ab29-1ca02602e7b2" />
-</p>
-
 <!--
 Social Media Links
 -->
@@ -20,12 +12,6 @@ Social Media Links
 </div>
 
 
-<!--
-Stats
--->
-[![Barrys's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarryGoode&theme=tokyonight)](https://github.com/BarryGoode/github-readme-stats) 
-
-<!--
 **BarryGoode/BarryGoode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
