@@ -1,4 +1,4 @@
-## Barry Goode SDET 
+## Barry Goode SQAE 
 <!--
 Social Media Links
 -->
